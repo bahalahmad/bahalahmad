@@ -2,10 +2,8 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Bahal Ahmad. I’m a Tech enthusiast who loves solving complex problems in the digital world. Think of me as a problem-solving Expert
-who can build the strong bones of software (data structures and algorithms) . I also know my way around the front end –
-making things look good, and work smoothly. Proven problem-solving skills. I’m actively seeking opportunities to contribute
-to projects and deliver impactful solutions through my passion for coding and rapid learning. I am a very focused person, team player, and Quick learner. Moreover, I'm Looking towards a challenging and responsible working environment where I can serve and improve my knowledge and skills for the betterment of the company and myself.
+    I'm Bahal Ahmad. I’m a Tech enthusiast who loves solving complex problems in the digital world.
+I am a very focused person, team player, and Quick learner. Moreover, I'm Looking towards a challenging and responsible working environment where I can serve and improve my knowledge and skills for the betterment of the company and myself.
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -56,9 +54,9 @@ to projects and deliver impactful solutions through my passion for coding and ra
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+<!--     //<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    //<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    //<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" /> -->
 </p>
 <br>
 
