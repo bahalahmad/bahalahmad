@@ -2,9 +2,10 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Bahal Ahmad I have a good hold on frontend technologies like HTML, CSS, and JavaScript. I also have a little bit of exposure to PHP and SQL. I consider 
-    myself a very focused person, team player, and Quick learner. Moreover, I'm Looking towards a challenging and responsible working environment where I can 
-    serve and improve my knowledge and skills for the betterment of the company and myself.
+    I'm Bahal Ahmad. I’m a Tech enthusiast who loves solving complex problems in the digital world. Think of me as a problem-solving Expert
+who can build the strong bones of software (data structures and algorithms) . I also know my way around the front end –
+making things look good, and work smoothly. Proven problem-solving skills. I’m actively seeking opportunities to contribute
+to projects and deliver impactful solutions through my passion for coding and rapid learning. I am a very focused person, team player, and Quick learner. Moreover, I'm Looking towards a challenging and responsible working environment where I can serve and improve my knowledge and skills for the betterment of the company and myself.
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -14,8 +15,8 @@
 
 <h3>
     <i>
-👀 I’m interested in Website Development
-🌱 I’m currently learning MERN Stack</i>
+👀 I’m interested in Coding 
+🌱 I’m currently learning MERN Stack and I'm genuinely enthusiastic about immersing myself in the machine learning</i>
 </h3>
 
 <h3>
@@ -74,7 +75,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bahal-ahmad-4723601a7">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/bahalahmad" />
     </a>
     <a href="https://twitter.com/its_bahal?t=2SJAVpH_GXfgFvvCeC4omg&s=09">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/bahalahmad" />
